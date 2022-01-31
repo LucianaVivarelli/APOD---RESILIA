@@ -1,0 +1,118 @@
+body{
+    background-image:url("https://acegif.com/wp-content/gif/outerspace-43.gif");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100%;
+}
+h1{
+    color:white;
+    text-align: center;
+    border: 10px solid;
+    border-radius: 80px 20px;
+    border-style:groove;
+    width:600px;
+    margin-left: 440px;
+    border-color: rgba(222, 115, 236, 0.76);    
+    background-color:rgba(15, 15, 14, 0.479);
+    font-family: 'Mochiy Pop P One', sans-serif;
+    
+}
+
+.apibolada{
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 13px;
+    border: 10px solid;
+    border-radius: 80px 20px;
+    border-color: rgba(222, 115, 236, 0.76);
+    border-style:groove;
+    width:700px;
+    margin-top: 70px;
+    margin-left: 370px;
+    background-color:rgba(15, 15, 14, 0.479);
+    font-family: 'Mochiy Pop P One', sans-serif;
+    
+}
+#img{
+    align-items:center;
+    position: oblique;
+    margin-left:23%;
+    margin-top:25px;
+    width:400px;
+    border-radius: 50px 40px;
+}
+
+div{ 
+    color:white;
+    text-align: center;
+    font-size: 13px;
+    border: 10px solid;
+    border-radius: 80px 20px;
+    border-color: rgba(222, 115, 236, 0.76);
+    border-style:groove;
+    width:700px;
+    margin-top: 70px;
+    margin-left: 345px;
+    background-color:rgba(15, 15, 14, 0.479);
+    font-family: 'Mochiy Pop P One', sans-serif;
+    
+
+}
+.alert{
+    text-align: center;
+    color:rgb(193, 135, 211);
+    border: solid;
+    border-radius:  50px;
+    font-size: 25px;
+    font-family: monospace;
+    font-style: bold;
+    border-color: rgba(222, 115, 236, 0.76);
+    width:500px;
+    margin-left: 100px;
+    background-image: linear-gradient(to left top, #cf48e0, #c047c6, #af47ad, #9e4796, #8b4681, #784175, #673c69, #56365c, #422d53, #2d2448, #181b3e, #001232);
+
+}
+
+#date{
+    border:solid;
+    text-align: center;
+    color:rgba(255, 255, 255, 0.658);
+    font-family: 'monospace';
+    font-style:oblique;
+    background-image: linear-gradient(to left top, #cf48e0, #c047c6, #af47ad, #9e4796, #8b4681, #784175, #673c69, #56365c, #422d53, #2d2448, #181b3e, #001232);
+}
+#datita{
+    font-size: 14px;
+    color:rgba(250, 244, 244, 0.659);
+    font-family:cursive;
+    border-radius: 20px 10px;
+    border-color: rgb(204, 201, 201);
+    border-style:groove;
+    background-image: linear-gradient(to left top, #cf48e0, #c047c6, #af47ad, #9e4796, #8b4681, #784175, #673c69, #56365c, #422d53, #2d2448, #181b3e, #001232);
+    padding:3px;
+}
+#clicar{
+    font-size:14px;
+    color:rgba(250, 244, 244, 0.659);
+    font-family:cursive;
+    border-radius: 20px 10px;
+    border-color: rgb(204, 201, 201);
+    border-style:groove;
+    background-image: linear-gradient(to left top, #cf48e0, #c047c6, #af47ad, #9e4796, #8b4681, #784175, #673c69, #56365c, #422d53, #2d2448, #181b3e, #001232);
+    padding:3px;
+}
+footer{
+    color:rgb(255, 255, 255);
+    text-align: center;
+    align-items: center;
+    font-size: 15px;
+    border: 10px solid;
+    border-radius: 80px 80px;
+    border-color: rgba(222, 115, 236, 0.76);
+    border-style:groove;
+    margin-top: 130px;
+    padding-bottom: 21px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}

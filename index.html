@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NASA</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap" rel="stylesheet"> 
+    
+</head>
+<body>
+    <h1> Astronomy Picture of the Day</h1>
+    <form class= "apibolada">
+        <h2>Explore the space images publish every day by NASA!</h2>
+        <p class="alert"><strong>Search for a date to see the image</strong></p>
+        <label for="date" id="datita">Data:</label>
+        <input name="data" type="date" id="date">
+        <button id="clicar" onclick="clicar()"> send </button>
+        <br><br>
+    </form>
+
+    <div id="saida">
+
+        <img src=""  id="img">
+        <iframe src="" id="video"></iframe>
+        <h2 id="titulo"></h2>
+        <p id="txt"></p>
+        <p id="autor"></p>
+        
+    </div>
+   
+       
+
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="index.js"></script>
+</body>
+</html>

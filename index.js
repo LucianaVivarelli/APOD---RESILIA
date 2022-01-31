@@ -1,9 +1,10 @@
-clicar()
-
+$("#clicar").click(function(event){
+    event.preventDefault();
+    clicar()
+})
 function clicar() {
-        var data =
-            document.getElementById("date").value;
-            
+        var data = document.getElementById("date").value;
+            console.log(data)
             $.ajax({url:`https://api.nasa.gov/planetary/apod?api_key=K3GFM4cqezl5aRhMDxfJhbZM8uF2KBkJzCgerIn0&date=${data}`,
             success: function (resposta) {
             

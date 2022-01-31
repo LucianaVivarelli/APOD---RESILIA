@@ -43,6 +43,15 @@ h1{
     width:400px;
     border-radius: 50px 40px;
 }
+#video{
+    align-items:center;
+    position: oblique;
+    margin-left:23%;
+    margin-top:25px;
+    width:400px;
+    border-radius: 50px 40px;
+
+}
 
 div{ 
     color:white;

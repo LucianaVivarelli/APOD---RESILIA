@@ -8,31 +8,38 @@
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https: //fonts.googleapis.com/css2? family= Mukta:wght@200 & family= Roboto+Condensed:ital@1 &família= Trabalho+Sans:wght@500 & display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap" rel="stylesheet"> 
     
 </head>
 <body>
-    <h1> Astronomy Picture of the Day</h1>
-    <form class= "apibolada">
-        <h2>Explore the space images publish every day by NASA!</h2>
-        <p class="alert"><strong>Search for a date to see the image</strong></p>
-        <label for="date" id="datita">Data:</label>
+    <h1 class="titulo"> Astronomy Picture of the Day</h1>
+    <main class= "container">
+    <form class= "form-api">
+        <h2 class="titulo-2">Explore the space images publish every day by NASA!</h2>
+        <p class="alert">Search for a date to see the image</p>
+        <label for="date" id="data">Date:</label>
         <input name="data" type="date" min="1998-05-02" max="2022-01-31" id="date">
-        <button id="clicar"> send </button>
+        <br>
+        <button id="clicar">send</button>
         <br><br>
     </form>
 
     <div id="saida">
-
+        
+        <h2 id="titulo"></h2>
         <img src=""  id="img">
         <iframe src="" id="video"></iframe>
-        <h2 id="titulo"></h2>
         <p id="txt"></p>
         <p id="autor"></p>
         
     </div>
-   
-       
+</main>
+       <footer>
+        <p class="p-footer"> apod nasa by: Luciana Vivarelli</p>
+       </footer>
 
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
 <script src="index.js"></script>

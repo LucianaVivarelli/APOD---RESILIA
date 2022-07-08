@@ -1,12 +1,7 @@
 <h1 align="center"> Projeto APOD - segundo módulo de desenvolvimento Web na Resilia Educação </h1>
 
 <p align="center"> Projeto que fiz no inicio do segundo módulo do curso</p>
-<div align="center" color:"Blue">
-<p>Tecnologias usadas:</p>
-<br>
-  <img align="center" alt="Lu-HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lu-CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div
+
 Visual antigo:
 
 ![Design sem nome (2)](https://user-images.githubusercontent.com/96242187/176980507-4b6a57ad-18f4-4910-a21d-29d72db53657.jpg)
@@ -28,3 +23,10 @@ Como está agora:
 <li>Melhorar código</li>
 <li>Usar responsividade</li>
 </ul1>
+
+<div align="center">
+<p>Tecnologias usadas:</p>
+<br>
+  <img align="center" alt="Lu-HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lu-CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div

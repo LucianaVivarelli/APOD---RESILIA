@@ -1,6 +1,6 @@
 <h1 align="center"> Projeto APOD - segundo módulo de desenvolvimento Web na Resilia Educação </h1>
 
-<p align="center"> Projeto que fiz no inicio do segundo módulo do curso</p>
+<p align="center"> Projeto que realizei no inicio do segundo módulo do curso</p>
 
 Visual antigo:
 

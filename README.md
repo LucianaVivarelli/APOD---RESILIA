@@ -2,11 +2,6 @@
 
 <p align="center"> Projeto que realizei no inicio do segundo módulo do curso</p>
 
-Visual antigo:
-
-![Design sem nome (2)](https://user-images.githubusercontent.com/96242187/176980507-4b6a57ad-18f4-4910-a21d-29d72db53657.jpg)
-<br>
-![Design sem nome (12)](https://user-images.githubusercontent.com/96242187/176980554-e581b155-4999-4a9f-9b8c-19efe915f539.png)
 
 <p> Segundo projeto que fiz. Nota-se que a imagem de fundo está quebrada e com má resolução</p>
 

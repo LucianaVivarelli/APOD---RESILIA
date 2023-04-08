@@ -10,7 +10,7 @@
 
 ![Design sem nome (15)](https://user-images.githubusercontent.com/96242187/176981853-7d97af09-2d10-48e0-8aa1-bad0ef6ec270.png)
 
-<p> Optei em não fazer melhorias e nem deixa-lo responsivo para manter o conjecimento da época registrado. Irei fazer um novo para a visualização do upgrade de conhecimento</p>
+<p> Optei em não fazer melhorias e nem deixa-lo responsivo para manter o conhecimento da época registrado. Irei fazer um novo para a visualização do upgrade de conhecimento</p>
 <div align="center">
 <p>Tecnologias usadas:</p>
 <br>
